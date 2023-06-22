@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumesh Bhaumik</h1>
 <h3 align="center">An aspiring Data Analyst</h3>
 
-- 🌱 I’m currently learning **Python**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
