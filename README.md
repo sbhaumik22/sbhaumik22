@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumesh Bhaumik</h1>
-<h3 align="center">A Data Analyst</h3>
+<h3 align="center">A Software Tester</h3>
 
 
 
