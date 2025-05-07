@@ -19,9 +19,6 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
   </a>
-  <a href="https://www.qmetry.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.wikia.nocookie.net/logopedia/images/f/f5/QMetry_logo.png" alt="QMetry" width="40" height="40"/>
-  </a>
   
   <!-- Bug Tracking & Collaboration -->
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
