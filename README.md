@@ -2,7 +2,7 @@
 
 ## 🚀 Software Development Engineer in Test (SDET)
 
-**Passionate QA Engineer** with 2+ years of experience in **end-to-end testing**, **test automation**, and **quality assurance** across healthcare and enterprise applications. Specialized in building robust testing frameworks and ensuring high-quality software delivery.
+**Passionate QA Engineer** with 1.7+ years of experience in **end-to-end testing**, **test automation**, and **quality assurance** across healthcare and enterprise applications. Specialized in building robust testing frameworks and ensuring high-quality software delivery.
 
 ---
 
@@ -20,9 +20,9 @@
 
 ### 🧪 Testing Expertise
 ```
-✅ Functional Testing     ✅ Regression Testing    ✅ API Testing
-✅ UAT & Sanity Testing   ✅ Smoke Testing         ✅ Exploratory Testing
-✅ Compatibility Testing  ✅ End-to-End Testing    ✅ Performance Testing
+✅ Automation Testing       ✅ Functional Testing     ✅ Regression Testing    
+✅ API Testing              ✅ UAT & Sanity Testing   ✅ Smoke Testing         
+✅ Exploratory Testing      ✅ Compatibility Testing  ✅ Performance Testing
 ```
 
 ### 🔧 Automation Tools & Frameworks
@@ -98,41 +98,12 @@
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Technology in Electrical Engineering**  
-*MCKV Institute of Engineering* | **CGPA: 9.23** | *2018-2022*
-
----
-
-## 📈 Why Choose Me?
-
-✨ **Quality-First Mindset** - Committed to delivering bug-free, high-performance applications
-
-🔄 **Automation Expertise** - Proven track record of reducing manual effort through smart automation
-
-🏥 **Domain Knowledge** - Specialized experience in healthcare applications and compliance
-
-👥 **Leadership Skills** - Experience in mentoring teams and implementing best practices
-
-📊 **Results-Driven** - Consistent track record of improving quality metrics and team productivity
-
----
-
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/soumesh-bhaumik)
-- 📧 **Email**: soumesh.bhaumik@email.com
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/contact-soumesh-bhaumik-a0b3b3352/)
+- 📧 **Email**: soumeshbhaumik99@email.com or bhaumiksoumesh12@gmail.com
 - 🐙 **GitHub**: You're already here! Explore my repositories below
 
 ---
 
-### 🌟 "Quality is not an act, it is a habit" - Aristotle
-
-*Ready to ensure your software meets the highest quality standards. Let's build something amazing together!*
-
----
-
-⭐ **Star this repository if you find my work interesting!**  
-🍴 **Fork and contribute to open-source testing projects**  
-📬 **Reach out for collaboration opportunities**
+### 🌟 *Ready to ensure your software meets the highest quality standards. Let's build something amazing together!*
