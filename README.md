@@ -1,74 +1,68 @@
-<h1 align="center">Hi 👋, I'm Soumesh Bhaumik</h1>
-<h3 align="center">A Passionate Software Tester</h3>
+# 👋 Hi, I'm Soumesh Bhaumik
 
-<p align="center">
-  I'm a dedicated and detail-oriented software tester with a strong foundation in manual and automated testing, along with experience in various testing tools, programming languages, and methodologies. I focus on ensuring high-quality software through comprehensive test strategies, clear communication, and continuous learning. I thrive in dynamic environments and am driven by a commitment to excellence in every testing phase.
-</p>
+🔍 **QA Automation Engineer | SDET | Agile Test Strategist**  
+📍 Based in Bangalore, India  
+📫 [Email Me](mailto:bhaumiksoumesh12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/soumesh-bhaumik-a0b3b3352/)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/soumesh-bhaumik-a0b3b3352/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soumesh LinkedIn" height="30" width="40" />
-  </a>
-</p>
+---
 
+## 🚀 About Me
 
-<h3 align="left">🛠️ Tools & Technologies</h3>
-<p align="left">
-  <!-- Test Management -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
-  </a>
-  
-  <!-- Bug Tracking & Collaboration -->
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Confluence" width="40" height="40"/>
-  </a>
+I’m a passionate QA Automation Engineer with over **2 years of hands-on experience** in building reliable, scalable, and maintainable test automation frameworks for web, mobile, and API layers.  
+My core strength lies in **Java-based frameworks**, **BDD**, and **REST API testing** using tools like Selenium, REST Assured, TestNG, and Cucumber.
 
-  <!-- API Testing -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+I drive quality engineering initiatives, lead defect triaging, and champion automation in Agile environments.  
+Currently working on multi-platform healthcare apps with over 90% test coverage and 40% faster regression cycles.
 
-  <!-- Test Automation -->
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Database Testing -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40"/>
-  </a>
+## 🛠️ Tech Stack
 
-  <!-- Data Analysis & Reporting -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+**Languages:** Java, Python, JavaScript  
+**Automation:** Selenium WebDriver, REST Assured, Postman, TestNG, Cucumber (BDD)  
+**Frameworks:** Maven, JUnit, TestNG, Jenkins  
+**Test Management:** JIRA, Git, GitHub Actions  
+**Databases:** MySQL, PostgreSQL  
+**Tools:** Figma, Strapi CMS, Git, VSCode, IntelliJ
 
-  <!-- Spreadsheet & Documentation -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Microsoft Excel" width="40" height="40"/>
-  </a>
+---
 
-  <!-- UI/UX Review & Collaboration -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
+## 📂 Featured Projects
 
-  <!-- Programming Languages -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
+### 🔹 FvAtHome – Hospital & Homecare QA Automation  
+> *Role: Lead QA Automation | Web + Mobile | Feb 2024 – Present*  
+- Automated **450+ test cases** across patient, admin, doctor, and nurse modules  
+- Developed BDD API test suite using **REST Assured + Cucumber**  
+- Validated data sync between web (Strapi CMS) and mobile platforms  
+📎 [View Project Repo](https://github.com/soumeshbhaumik/fvathome-qa)
+
+---
+
+### 🔹 MyCLNQ – Mobile Healthcare App  
+> *Role: QA Engineer | Android + iOS | 2024*  
+- 200+ test cases created and executed via JIRA  
+- Smartwatch + payment gateway (Stripe, PayU) integrations tested  
+- Focused on security, data privacy, and sync testing  
+📎 [View Project Repo](https://github.com/soumeshbhaumik/myclnq-tests)
+
+---
+
+### 🔹 MediXplore – Medical Tourism Platform  
+> *Role: QA Tester | Web App*  
+- Functional and regression testing for dynamic CMS-based content  
+- Used PostgreSQL for backend data verification  
+📎 [View Project Repo](https://github.com/soumeshbhaumik/medixplore-qa)
+
+---
+
+## 📄 Resume
+
+📎 [Download My Resume (PDF)](https://drive.google.com/file/d/your-resume-link/view)
+
+---
+
+## 🧩 Let's Connect
+
+- 📧 bhaumiksoumesh12@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/soumesh-bhaumik-a0b3b3352/)  
+- 💼 Actively open to QA/SDET roles (Full-time/Remote/Hybrid)
