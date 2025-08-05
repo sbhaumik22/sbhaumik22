@@ -1,68 +1,138 @@
 # 👋 Hi, I'm Soumesh Bhaumik
 
-🔍 **QA Automation Engineer | SDET | Agile Test Strategist**  
-📍 Based in Bangalore, India  
-📫 [Email Me](mailto:bhaumiksoumesh12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/soumesh-bhaumik-a0b3b3352/)  
+## 🚀 Software Development Engineer in Test (SDET)
+
+**Passionate QA Engineer** with 2+ years of experience in **end-to-end testing**, **test automation**, and **quality assurance** across healthcare and enterprise applications. Specialized in building robust testing frameworks and ensuring high-quality software delivery.
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Do
 
-I’m a passionate QA Automation Engineer with over **2 years of hands-on experience** in building reliable, scalable, and maintainable test automation frameworks for web, mobile, and API layers.  
-My core strength lies in **Java-based frameworks**, **BDD**, and **REST API testing** using tools like Selenium, REST Assured, TestNG, and Cucumber.
-
-I drive quality engineering initiatives, lead defect triaging, and champion automation in Agile environments.  
-Currently working on multi-platform healthcare apps with over 90% test coverage and 40% faster regression cycles.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Java, Python, JavaScript  
-**Automation:** Selenium WebDriver, REST Assured, Postman, TestNG, Cucumber (BDD)  
-**Frameworks:** Maven, JUnit, TestNG, Jenkins  
-**Test Management:** JIRA, Git, GitHub Actions  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Figma, Strapi CMS, Git, VSCode, IntelliJ
+- 🔍 **End-to-End QA Leadership** - Led QA for 4+ healthcare projects with 90% functional test coverage
+- 🤖 **Test Automation** - Built modular API and UI automation frameworks reducing testing time by 40%
+- 📱 **Cross-Platform Testing** - Mobile (Android/iOS) and responsive web application testing
+- 👥 **Team Mentorship** - Mentored junior QA members and implemented best practices
+- 🐛 **Quality Improvement** - Reduced UAT defects by 45% through strategic testing approaches
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Technical Arsenal
 
-### 🔹 FvAtHome – Hospital & Homecare QA Automation  
-> *Role: Lead QA Automation | Web + Mobile | Feb 2024 – Present*  
-- Automated **450+ test cases** across patient, admin, doctor, and nurse modules  
-- Developed BDD API test suite using **REST Assured + Cucumber**  
-- Validated data sync between web (Strapi CMS) and mobile platforms  
-📎 [View Project Repo](https://github.com/soumeshbhaumik/fvathome-qa)
+### 🧪 Testing Expertise
+```
+✅ Functional Testing     ✅ Regression Testing    ✅ API Testing
+✅ UAT & Sanity Testing   ✅ Smoke Testing         ✅ Exploratory Testing
+✅ Compatibility Testing  ✅ End-to-End Testing    ✅ Performance Testing
+```
 
----
+### 🔧 Automation Tools & Frameworks
+- **API Testing**: REST Assured, Postman
+- **UI Automation**: Selenium WebDriver, TestNG
+- **BDD Framework**: Cucumber with Java
+- **Mobile Testing**: Android/iOS testing frameworks
+- **CI/CD Integration**: Maven, Git workflows
 
-### 🔹 MyCLNQ – Mobile Healthcare App  
-> *Role: QA Engineer | Android + iOS | 2024*  
-- 200+ test cases created and executed via JIRA  
-- Smartwatch + payment gateway (Stripe, PayU) integrations tested  
-- Focused on security, data privacy, and sync testing  
-📎 [View Project Repo](https://github.com/soumeshbhaumik/myclnq-tests)
+### 💻 Programming & Databases
+- **Languages**: Java, JavaScript, Python
+- **Databases**: MySQL, PostgreSQL
+- **Cloud Platforms**: AWS, Snowflake, Databricks
 
----
-
-### 🔹 MediXplore – Medical Tourism Platform  
-> *Role: QA Tester | Web App*  
-- Functional and regression testing for dynamic CMS-based content  
-- Used PostgreSQL for backend data verification  
-📎 [View Project Repo](https://github.com/soumeshbhaumik/medixplore-qa)
-
----
-
-## 📄 Resume
-
-📎 [Download My Resume (PDF)](https://drive.google.com/file/d/your-resume-link/view)
+### 🔄 Tools & Collaboration
+- **Project Management**: JIRA (Advanced workflows & triaging)
+- **Version Control**: Git, GitHub
+- **Design Tools**: Figma (UI/UX testing)
+- **Build Tools**: Maven
 
 ---
 
-## 🧩 Let's Connect
+## 🏆 Key Achievements
 
-- 📧 bhaumiksoumesh12@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/soumesh-bhaumik-a0b3b3352/)  
-- 💼 Actively open to QA/SDET roles (Full-time/Remote/Hybrid)
+🎯 **750+ Test Cases Designed & Executed** - Comprehensive coverage across multiple projects
+
+📉 **45% Reduction in UAT Defects** - Through strategic testing and quality processes
+
+⚡ **40% Faster Regression Testing** - Via automated test suite implementation
+
+🔧 **350+ Defects Tracked & Resolved** - Ensuring high-quality software delivery
+
+👥 **Team Productivity Enhancement** - Through mentorship and knowledge sharing
+
+---
+
+## 💼 Professional Experience
+
+### 🏥 Software Development Engineer in Test
+**MyCLNQ Health India Pvt. Ltd.** | *Feb 2024 – Present*
+- Leading QA for healthcare applications with focus on patient safety and data integrity
+- Implementing comprehensive testing strategies for mobile and web platforms
+- Building scalable automation frameworks for continuous testing
+
+### 💾 Database Intern
+**Cognizant Technology Solutions** | *Feb 2022 – Aug 2022*
+- Developed Python scripts for data validation across cloud environments
+- Streamlined data sanity checks for enterprise-level applications
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 [FV@Home - Healthcare Management Ecosystem](https://github.com/yourusername/fvhome)
+**Complete Hospital & Homecare Management Platform**
+- 📋 **450+ Test Cases** across patient, doctor, and admin portals
+- 🐛 **350+ Defects** identified and tracked to resolution
+- 🤖 **API Automation** using REST Assured + Cucumber
+- 🖥️ **UI Automation** with Selenium for admin workflows
+
+### 🏥 MyCLNQ - Healthcare Provider Platform
+**Comprehensive Healthcare Solution Testing**
+- 📱 **Smartwatch Integration** testing (Google Health Connect)
+- 💳 **Payment Gateway** validation (Stripe, Payoo, PayU)
+- 🔒 **Data Security** and compliance testing
+- 📊 **200+ Test Cases** with performance improvements
+
+### 🌍 MediXplore - Medical Tourism Platform
+**End-to-End Platform Validation**
+- 🎨 **UI/UX Testing** with Figma wireframe validation
+- 🗄️ **Data Integrity** testing with PostgreSQL verification
+- 🔄 **CMS Integration** testing with Strapi backend
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology in Electrical Engineering**  
+*MCKV Institute of Engineering* | **CGPA: 9.23** | *2018-2022*
+
+---
+
+## 📈 Why Choose Me?
+
+✨ **Quality-First Mindset** - Committed to delivering bug-free, high-performance applications
+
+🔄 **Automation Expertise** - Proven track record of reducing manual effort through smart automation
+
+🏥 **Domain Knowledge** - Specialized experience in healthcare applications and compliance
+
+👥 **Leadership Skills** - Experience in mentoring teams and implementing best practices
+
+📊 **Results-Driven** - Consistent track record of improving quality metrics and team productivity
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/soumesh-bhaumik)
+- 📧 **Email**: soumesh.bhaumik@email.com
+- 🐙 **GitHub**: You're already here! Explore my repositories below
+
+---
+
+### 🌟 "Quality is not an act, it is a habit" - Aristotle
+
+*Ready to ensure your software meets the highest quality standards. Let's build something amazing together!*
+
+---
+
+⭐ **Star this repository if you find my work interesting!**  
+🍴 **Fork and contribute to open-source testing projects**  
+📬 **Reach out for collaboration opportunities**
