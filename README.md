@@ -2,7 +2,7 @@
 
 ## 🚀 Software Development Engineer in Test (SDET)
 
-**Passionate QA Engineer** with 1.7+ years of experience in **end-to-end testing**, **test automation**, and **quality assurance** across healthcare and enterprise applications. Specialized in building robust testing frameworks and ensuring high-quality software delivery.
+I'm a **QA Engineer** with 1.7+ years of experience in **end-to-end testing**, **test automation**, and **quality assurance** across healthcare and enterprise applications. Specialized in building robust testing frameworks and ensuring high-quality software delivery.
 
 ---
 
