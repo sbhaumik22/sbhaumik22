@@ -76,7 +76,7 @@ I'm a **QA Engineer** with 1.7+ years of experience in **end-to-end testing**, *
 
 ## 🚀 Featured Projects
 
-### 🏥 [FV@Home - Healthcare Management Ecosystem]([https://github.com/yourusername/fvhome](https://github.com/sbhaumik22/fb_medical_api_automation))
+### 🏥 [FV@Home - Healthcare Management Ecosystem]([https://github.com/sbhaumik22/fb_medical_api_automation]
 **Complete Hospital & Homecare Management Platform**
 - 📋 **450+ Test Cases** across patient, doctor, and admin portals
 - 🐛 **350+ Defects** identified and tracked to resolution
